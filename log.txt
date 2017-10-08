@@ -1,0 +1,9 @@
+POST
+hi
+{ name: 'user', password: 'user' }
+POST
+hi
+{ name: 'user', password: 'user' }
+POST
+hi
+{ name: 'user', password: 'user' }
